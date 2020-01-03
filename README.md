@@ -1,7 +1,7 @@
 # Automated_Educational_Tools
 Contains my ideas, designs, and rough implementations of educational tools that could potentially help teachers.
 
-Not much here yet!
+The first and second will be part of my final project for grad school. The last two are just thoughts currently.
 
 ## Current Ideas
 
